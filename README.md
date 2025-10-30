@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="Screenshot 2025-10-30 084956" src="https://github.com/user-attachments/assets/71c6437b-fef3-4996-888e-331f19721249" /># 🔥 Product Store (Full-Stack MERN)
+# 🔥 Product Store (Full-Stack MERN)
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE.md)
 [![GitHub issues](https://img.shields.io/github/issues/md-alihaider/product-store)](https://github.com/md-alihaider/product-store/issues)
