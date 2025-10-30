@@ -1,4 +1,4 @@
-# 🔥 Product Store (Full-Stack MERN)
+<img width="1920" height="1080" alt="Screenshot 2025-10-30 084956" src="https://github.com/user-attachments/assets/71c6437b-fef3-4996-888e-331f19721249" /># 🔥 Product Store (Full-Stack MERN)
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE.md)
 [![GitHub issues](https://img.shields.io/github/issues/md-alihaider/product-store)](https://github.com/md-alihaider/product-store/issues)
@@ -11,15 +11,10 @@
 A full-stack MERN application that provides a clean and modern interface for managing a product catalog. This project demonstrates core CRUD (Create, Read, Update, Delete) operations, connecting a React/Chakra UI frontend to a Node.js/Express backend with a MongoDB database.
 
 ## 📸 Screenshots
-<img width="1920" height="1080" alt="Screenshot 2025-10-30 084956" src="https://github.com/user-attachments/assets/b7a4bcd3-194f-40ba-a4ab-79efef77e4c1" />
-<img width="1920" height="1020" alt="Screenshot 2025-10-30 085028" src="https://github.com/user-attachments/assets/a7b0a972-363c-4de3-9258-50626e556a8b" />
-<img width="1920" height="1020" alt="Screenshot 2025-10-30 085049" src="https://github.com/user-attachments/assets/f05a62f6-d335-4884-9b47-07545bab860f" />
-
-*(You can add your screenshots by dragging the image files directly into the GitHub editor when you paste this text.)*
 
 | Main Product View | Create New Product | Update Product Modal |
 | :---: | :---: | :---: |
-| ![Main product view](https://i.imgur.com/example.png) | ![Create new product form](https://i.imgur.com/example.png) | ![Update product modal](https://i.imgur.com/example.png) |
+| ![Main product view](<img width="1920" height="1080" alt="Screenshot 2025-10-30 084956" src="https://github.com/user-attachments/assets/418c2b09-cce5-490c-8fc9-09e303ce27ef" />) | ![Create new product form](<img width="1920" height="1020" alt="Screenshot 2025-10-30 085028" src="https://github.com/user-attachments/assets/04769f8c-4491-40e4-869f-b25d96c64adf" />) | ![Update product modal](<img width="1920" height="1020" alt="Screenshot 2025-10-30 085049" src="https://github.com/user-attachments/assets/0dd00586-0dd3-4f0c-b228-1354d77c2e1b" />) |
 
 ## ✨ Features
 
