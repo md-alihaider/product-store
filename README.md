@@ -1,4 +1,4 @@
-<img width="1920" height="1020" alt="Screenshot 2025-10-30 085028" src="https://github.com/user-attachments/assets/d6227ae8-a3e4-4f35-9e0c-14d773ca2e60" /># 🔥 Product Store (Full-Stack MERN)
+# 🔥 Product Store (Full-Stack MERN)
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE.md)
 [![GitHub issues](https://img.shields.io/github/issues/md-alihaider/product-store)](https://github.com/md-alihaider/product-store/issues)
@@ -14,8 +14,7 @@ A full-stack MERN application that provides a clean and modern interface for man
 
 | Main Product View | Create New Product | Update Product Modal |
 | :---: | :---: | :---: |
-| ![Main product view](<img width="1920" height="1080" alt="Screenshot 2025-10-30 084956" src="https://github.com/user-attachments/assets/9b073221-1675-4832-93d4-3aabdae43485" />
-) | ![Create new product form](<img width="1920" height="1020" alt="Screenshot 2025-10-30 085028" src="https://github.com/user-attachments/assets/5a5e15b3-decb-4b75-8441-f7b6b4ae1f8a" />) | ![Update product modal](<img width="1920" height="1020" alt="Screenshot 2025-10-30 085049" src="https://github.com/user-attachments/assets/78e2493d-127e-424f-b830-749d686cdee8" />) |
+| ![Main product view](https://github.com/user-attachments/assets/9b073221-1675-4832-93d4-3aabdae43485) | ![Create new product form](https://github.com/user-attachments/assets/5a5e15b3-decb-4b75-8441-f7b6b4ae1f8a) | ![Update product modal](https://github.com/user-attachments/assets/78e2493d-127e-424f-b830-749d686cdee8) |
  
 ## ✨ Features
 
